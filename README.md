@@ -34,4 +34,5 @@
 
 - [ProGit](https://www.progit.cn/)
 - [Mac-Setup-Guide](https://sourabhbajaj.com/mac-setup/)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
